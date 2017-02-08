@@ -6,4 +6,4 @@ Below you can find a table with the problems I have solved (and the languages I 
 
 |   |  Python  |   OCaml  |   Java   |
 |---|----------|----------|----------|
-| 1 | &#10007; | &#10004; | &#10007; |
+| 1 | &#10004; | &#10004; | &#10007; |
